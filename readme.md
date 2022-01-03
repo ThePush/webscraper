@@ -1,6 +1,6 @@
 # webscraper
 
-A simple tool to gather informations from websites.
+A simple tool to [gather informations from websites](https://en.wikipedia.org/wiki/Web_scraping).
 
 To configure it you need to look for the tag and/or class of the informations needed in the source code of the targeted page.
 
