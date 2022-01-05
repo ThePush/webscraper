@@ -14,7 +14,7 @@ In this example the ```webscraper.py``` script will create a csv file that conta
 #run
 python3 webscraper.py
 ```
-```
+```shell
 #run
 python3 csv_reader.py
 ```
