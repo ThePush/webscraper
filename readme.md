@@ -8,10 +8,13 @@ In this example the ```webscraper.py``` script will create a csv file that conta
 
 ```csv_reader.py``` will display the csv file in the terminal.
 
+### Instructions
+
 ```shell
 #run
 python3 webscraper.py
-
+```
+```
 #run
 python3 csv_reader.py
 ```
