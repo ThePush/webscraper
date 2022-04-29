@@ -1,4 +1,4 @@
-# webscraper
+# webscraper 🗐
 
 A simple tool to [gather informations from websites](https://en.wikipedia.org/wiki/Web_scraping).
 
